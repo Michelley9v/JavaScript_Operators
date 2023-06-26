@@ -5,15 +5,28 @@ console.log(
 
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
+let a = 20;
+let b = 4;
+  20 + 4 ; // 24
+  20 - 4 ; // 16
+  20 * 4 ; // 80
+  20 / 4 ; // 5
 
-// YOUR CODE HERE
+console.log ("add");
 
-// Exercise 2
+ 
 console.log("EXERCISE 2:\n==========\n");
-
-// YOUR CODE HERE
+let num = 11;
+let str = "11";
+let str2 = "eleven";
+let isPresent = true;
+let firstName = "Frodo";
+let lastName = "Baggins";
 
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
 
-// YOUR CODE HERE
+let val = 5;
+let str3 = "5";
+let str4 = "five";
+let isPresent2 = false;
